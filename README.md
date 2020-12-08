@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cloud
-=======
 # Setup
 
 ### git
@@ -70,4 +67,7 @@ go mod download
 ```
 
 6. You are done with setup.
->>>>>>> 14ef6072a1a72e09d39ed0dc379bbf0eae6aeb14
+
+### More information
+
+Information specific to certain files, functionalities, and/or subparts of this project can be found in various markdown files.
